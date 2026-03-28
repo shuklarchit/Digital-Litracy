@@ -17,3 +17,44 @@ For my digital portfolio, I have created a GitHub page, a LinkedIn page, and a K
 While setting up my GitHub page, I added a README page containing my name, branch, and goals for learning. For LinkedIn, I have added details regarding my academic background and the degree I am currently pursuing. These platforms will be the basis of my digital identity in the future.
 
 In the next four years, I plan to keep updating my GitHub page with projects completed, make good use of LinkedIn for networking and gaining internship opportunities, and improve my problem-solving skills through Kaggle.
+
+GitHub: www.github.com/shuklarchit
+LinkedIn: www.linkedin.com/in/archit-shukla-734a32344 
+Kaggle: www.kaggle.com/shuklarchit
+
+Task 3
+
+
+I practiced my basic coding skills by using HackerRank, and I used it to solve a beginner-level programming problem. This helped me understand logical thinking and problem-solving skills in programming.
+
+I used Google Forms for collaborative work, where I created a form titled “Digital Literacy Awareness Quiz” with five questions, including multiple choice and short answer types.
+
+These tools are very useful for academic activities. Coding platforms are useful for improving programming skills, whereas Google Forms are useful for quizzes, feedback, and group activities.
+
+I think this task has helped me understand technical practice and digital collaborative tools better.
+
+I completed a beginner coding problem on HackerRank.
+
+I also created a Google Form titled “Digital Literacy Awareness Quiz”.
+
+Form Link: https://forms.gle/A3oMzQnK9XuTnHNC8
+
+Screenshots are available in the task-3-platforms folder.
+
+Task 4
+
+
+I wrote two professional emails: one asking for an extension on an assignment, and another expressing interest in an internship.
+
+I have also created a list of "Do’s and Don’ts" when it comes to using social media.
+
+The files are included in the task-4-email-etiquette folder.
+
+Task 5
+
+
+I created a case study on UPI fraud that explains how the fraud works, who is targeted by the fraud, and the impact of the fraud.
+
+I also created a prevention checklist that provides safety tips and how to report the fraud.
+
+All files are available under the task-5-cybercrime folder.
