@@ -12,15 +12,13 @@ In making the poster, I found it quite interesting to look for various design as
 Task 2
 
 
-For my digital portfolio, I have created a GitHub page, a LinkedIn page, and a Kaggle page. Each of these platforms plays a distinct role in establishing a good professional image for myself. GitHub is used to showcase coding projects and track the progress of my learning journey. LinkedIn is used to develop a network of people and keep myself informed of various opportunities in the field. Kaggle is used to learn various concepts related to data science and practice various skills through competitions.
-
-While setting up my GitHub page, I added a README page containing my name, branch, and goals for learning. For LinkedIn, I have added details regarding my academic background and the degree I am currently pursuing. These platforms will be the basis of my digital identity in the future.
-
-In the next four years, I plan to keep updating my GitHub page with projects completed, make good use of LinkedIn for networking and gaining internship opportunities, and improve my problem-solving skills through Kaggle.
+I created my digital portfolio on the following platforms:
 
 GitHub: www.github.com/shuklarchit
 LinkedIn: www.linkedin.com/in/archit-shukla-734a32344 
 Kaggle: www.kaggle.com/shuklarchit
+
+Screenshots of all profiles are included in the task-2-portfolio folder.
 
 Task 3
 
