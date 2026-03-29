@@ -1,5 +1,8 @@
 # Digital-Literacy
 
+Name: Archit Shukla
+Reg no.: 25BAI10474
+
 Task 1
 
 
