@@ -1,0 +1,5 @@
+Case Study on UPI / Online Payment Fraud
+
+The fraud case of Unified Payments Interface (UPI) is growing rapidly in India. This is an emerging cybercrime where scammers trick people into making transactions. In the process, the victim is tricked into making payments. In an instance, the scammer contacts the victim using a phone call or message. The scammer pretends to be a bank employee, delivery person, or an online marketplace buyer. The scammer sends the victim a “collect request” using the Unified Payment Interface or asks the victim to scan the QR code. The scammer claims that it is necessary to receive money from the victim’s account.
+
+The victim, believing it to be true, enters the PIN to complete the transaction. Instead, the amount is deducted from the victim’s account. This is how the scammer tricks the victim. Students or people who are new to digital transactions are usually the ones who fall prey to this scam. This case study is an example of how people need to know about the process of Unified Payment Interface transactions. In reality, people need to know that entering the PIN is only necessary while sending money, not while receiving it.
