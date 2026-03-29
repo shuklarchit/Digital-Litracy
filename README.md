@@ -15,7 +15,9 @@ Task 2
 I created my digital portfolio on the following platforms:
 
 GitHub: www.github.com/shuklarchit
+
 LinkedIn: www.linkedin.com/in/archit-shukla-734a32344 
+
 Kaggle: www.kaggle.com/shuklarchit
 
 Screenshots of all profiles are included in the task-2-portfolio folder.
